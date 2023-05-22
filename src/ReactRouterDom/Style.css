@@ -1,0 +1,19 @@
+ul{
+    text-align: right;
+}
+ul li{
+
+justify-content: left;
+    display: inline-block;
+    text-decoration: none;
+    margin: 5px;
+    padding: 2px 16px;
+   
+}
+.navbar-link{
+    color:black;
+   
+}
+.navbar-link:hover{
+background-color: rgb(130, 190, 243);
+}
